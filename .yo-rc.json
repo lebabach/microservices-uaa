@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "microservices.uaa",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "microservices.uaa",
+    "packageFolder": "microservices/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTNlZDYzODUwYzFmNjIzOTFjYjI4MmUzZTk1NmI5OGIzOWE2ODJlZmNjNGFiYTMwMDhhNWU0MWM5ZmQwMTc1NmM2NjEwOTEyZTI0NTgwNTZlZDJkMjNkN2I4M2FkMmVkYTc5MzEzNjIyMjEyZGMzZmU0NjViNDQyMDVjN2NhZjg=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1579589137073,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "ja"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
